@@ -1,0 +1,42 @@
+D:\Final Year Project\src\SmartWasteManagement\SmartWasteManagement.EventLogging\bin\Debug\net6.0\SmartWasteManagement.EventLogging.deps.json
+D:\Final Year Project\src\SmartWasteManagement\SmartWasteManagement.EventLogging\bin\Debug\net6.0\SmartWasteManagement.EventLogging.dll
+D:\Final Year Project\src\SmartWasteManagement\SmartWasteManagement.EventLogging\bin\Debug\net6.0\SmartWasteManagement.EventLogging.pdb
+D:\Final Year Project\src\SmartWasteManagement\SmartWasteManagement.EventLogging\obj\Debug\net6.0\SmartWasteManagement.EventLogging.csproj.AssemblyReference.cache
+D:\Final Year Project\src\SmartWasteManagement\SmartWasteManagement.EventLogging\obj\Debug\net6.0\SmartWasteManagement.EventLogging.GeneratedMSBuildEditorConfig.editorconfig
+D:\Final Year Project\src\SmartWasteManagement\SmartWasteManagement.EventLogging\obj\Debug\net6.0\SmartWasteManagement.EventLogging.AssemblyInfoInputs.cache
+D:\Final Year Project\src\SmartWasteManagement\SmartWasteManagement.EventLogging\obj\Debug\net6.0\SmartWasteManagement.EventLogging.AssemblyInfo.cs
+D:\Final Year Project\src\SmartWasteManagement\SmartWasteManagement.EventLogging\obj\Debug\net6.0\SmartWasteManagement.EventLogging.csproj.CoreCompileInputs.cache
+D:\Final Year Project\src\SmartWasteManagement\SmartWasteManagement.EventLogging\obj\Debug\net6.0\SmartWasteManagement.EventLogging.dll
+D:\Final Year Project\src\SmartWasteManagement\SmartWasteManagement.EventLogging\obj\Debug\net6.0\refint\SmartWasteManagement.EventLogging.dll
+D:\Final Year Project\src\SmartWasteManagement\SmartWasteManagement.EventLogging\obj\Debug\net6.0\SmartWasteManagement.EventLogging.pdb
+D:\Final Year Project\src\SmartWasteManagement\SmartWasteManagement.EventLogging\obj\Debug\net6.0\ref\SmartWasteManagement.EventLogging.dll
+C:\Users\kabil\OneDrive\Documents\src\SmartWasteManagement\SmartWasteManagement.EventLogging\bin\Debug\net6.0\SmartWasteManagement.EventLogging.deps.json
+C:\Users\kabil\OneDrive\Documents\src\SmartWasteManagement\SmartWasteManagement.EventLogging\bin\Debug\net6.0\SmartWasteManagement.EventLogging.dll
+C:\Users\kabil\OneDrive\Documents\src\SmartWasteManagement\SmartWasteManagement.EventLogging\bin\Debug\net6.0\SmartWasteManagement.EventLogging.pdb
+C:\Users\kabil\OneDrive\Documents\src\SmartWasteManagement\SmartWasteManagement.EventLogging\obj\Debug\net6.0\SmartWasteManagement.EventLogging.csproj.AssemblyReference.cache
+C:\Users\kabil\OneDrive\Documents\src\SmartWasteManagement\SmartWasteManagement.EventLogging\obj\Debug\net6.0\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\kabil\OneDrive\Documents\src\SmartWasteManagement\SmartWasteManagement.EventLogging\obj\Debug\net6.0\SmartWasteManagement.EventLogging.csproj.ResolveComReference.cache
+C:\Users\kabil\OneDrive\Documents\src\SmartWasteManagement\SmartWasteManagement.EventLogging\obj\Debug\net6.0\SmartWasteManagement.EventLogging.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kabil\OneDrive\Documents\src\SmartWasteManagement\SmartWasteManagement.EventLogging\obj\Debug\net6.0\SmartWasteManagement.EventLogging.AssemblyInfoInputs.cache
+C:\Users\kabil\OneDrive\Documents\src\SmartWasteManagement\SmartWasteManagement.EventLogging\obj\Debug\net6.0\SmartWasteManagement.EventLogging.AssemblyInfo.cs
+C:\Users\kabil\OneDrive\Documents\src\SmartWasteManagement\SmartWasteManagement.EventLogging\obj\Debug\net6.0\SmartWasteManagement.EventLogging.csproj.CoreCompileInputs.cache
+C:\Users\kabil\OneDrive\Documents\src\SmartWasteManagement\SmartWasteManagement.EventLogging\obj\Debug\net6.0\SmartWasteManagement.EventLogging.dll
+C:\Users\kabil\OneDrive\Documents\src\SmartWasteManagement\SmartWasteManagement.EventLogging\obj\Debug\net6.0\refint\SmartWasteManagement.EventLogging.dll
+C:\Users\kabil\OneDrive\Documents\src\SmartWasteManagement\SmartWasteManagement.EventLogging\obj\Debug\net6.0\SmartWasteManagement.EventLogging.pdb
+C:\Users\kabil\OneDrive\Documents\src\SmartWasteManagement\SmartWasteManagement.EventLogging\obj\Debug\net6.0\ref\SmartWasteManagement.EventLogging.dll
+C:\Users\User\Downloads\SmartWasteManagement\SmartWasteManagement\SmartWasteManagement.EventLogging\bin\Debug\net6.0\SmartWasteManagement.EventLogging.deps.json
+C:\Users\User\Downloads\SmartWasteManagement\SmartWasteManagement\SmartWasteManagement.EventLogging\bin\Debug\net6.0\SmartWasteManagement.EventLogging.dll
+C:\Users\User\Downloads\SmartWasteManagement\SmartWasteManagement\SmartWasteManagement.EventLogging\bin\Debug\net6.0\SmartWasteManagement.EventLogging.pdb
+C:\Users\User\Downloads\SmartWasteManagement\SmartWasteManagement\SmartWasteManagement.EventLogging\obj\Debug\net6.0\SmartWasteManagement.EventLogging.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\SmartWasteManagement\SmartWasteManagement\SmartWasteManagement.EventLogging\obj\Debug\net6.0\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\User\Downloads\SmartWasteManagement\SmartWasteManagement\SmartWasteManagement.EventLogging\obj\Debug\net6.0\SmartWasteManagement.EventLogging.csproj.ResolveComReference.cache
+C:\Users\User\Downloads\SmartWasteManagement\SmartWasteManagement\SmartWasteManagement.EventLogging\obj\Debug\net6.0\SmartWasteManagement.EventLogging.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Downloads\SmartWasteManagement\SmartWasteManagement\SmartWasteManagement.EventLogging\obj\Debug\net6.0\SmartWasteManagement.EventLogging.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\SmartWasteManagement\SmartWasteManagement\SmartWasteManagement.EventLogging\obj\Debug\net6.0\SmartWasteManagement.EventLogging.AssemblyInfo.cs
+C:\Users\User\Downloads\SmartWasteManagement\SmartWasteManagement\SmartWasteManagement.EventLogging\obj\Debug\net6.0\SmartWasteManagement.EventLogging.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\SmartWasteManagement\SmartWasteManagement\SmartWasteManagement.EventLogging\obj\Debug\net6.0\SmartWasteManagement.EventLogging.dll
+C:\Users\User\Downloads\SmartWasteManagement\SmartWasteManagement\SmartWasteManagement.EventLogging\obj\Debug\net6.0\refint\SmartWasteManagement.EventLogging.dll
+C:\Users\User\Downloads\SmartWasteManagement\SmartWasteManagement\SmartWasteManagement.EventLogging\obj\Debug\net6.0\SmartWasteManagement.EventLogging.pdb
+C:\Users\User\Downloads\SmartWasteManagement\SmartWasteManagement\SmartWasteManagement.EventLogging\obj\Debug\net6.0\ref\SmartWasteManagement.EventLogging.dll
+D:\Final Year Project\src\SmartWasteManagement\SmartWasteManagement.EventLogging\obj\Debug\net6.0\Interop.Microsoft.Office.Interop.Excel.dll
+D:\Final Year Project\src\SmartWasteManagement\SmartWasteManagement.EventLogging\obj\Debug\net6.0\SmartWasteManagement.EventLogging.csproj.ResolveComReference.cache

@@ -1,0 +1,36 @@
+D:\Final Year Project\src\SmartWasteManagement\SmartWasteManagement.Yolov5\bin\Debug\net6.0\SmartWasteManagement.InferenceModel.deps.json
+D:\Final Year Project\src\SmartWasteManagement\SmartWasteManagement.Yolov5\bin\Debug\net6.0\SmartWasteManagement.InferenceModel.dll
+D:\Final Year Project\src\SmartWasteManagement\SmartWasteManagement.Yolov5\bin\Debug\net6.0\SmartWasteManagement.InferenceModel.pdb
+D:\Final Year Project\src\SmartWasteManagement\SmartWasteManagement.Yolov5\obj\Debug\net6.0\SmartWasteManagement.InferenceModel.csproj.AssemblyReference.cache
+D:\Final Year Project\src\SmartWasteManagement\SmartWasteManagement.Yolov5\obj\Debug\net6.0\SmartWasteManagement.InferenceModel.GeneratedMSBuildEditorConfig.editorconfig
+D:\Final Year Project\src\SmartWasteManagement\SmartWasteManagement.Yolov5\obj\Debug\net6.0\SmartWasteManagement.InferenceModel.AssemblyInfoInputs.cache
+D:\Final Year Project\src\SmartWasteManagement\SmartWasteManagement.Yolov5\obj\Debug\net6.0\SmartWasteManagement.InferenceModel.AssemblyInfo.cs
+D:\Final Year Project\src\SmartWasteManagement\SmartWasteManagement.Yolov5\obj\Debug\net6.0\SmartWasteManagement.InferenceModel.csproj.CoreCompileInputs.cache
+D:\Final Year Project\src\SmartWasteManagement\SmartWasteManagement.Yolov5\obj\Debug\net6.0\SmartWasteManagement.InferenceModel.dll
+D:\Final Year Project\src\SmartWasteManagement\SmartWasteManagement.Yolov5\obj\Debug\net6.0\refint\SmartWasteManagement.InferenceModel.dll
+D:\Final Year Project\src\SmartWasteManagement\SmartWasteManagement.Yolov5\obj\Debug\net6.0\SmartWasteManagement.InferenceModel.pdb
+D:\Final Year Project\src\SmartWasteManagement\SmartWasteManagement.Yolov5\obj\Debug\net6.0\ref\SmartWasteManagement.InferenceModel.dll
+C:\Users\kabil\OneDrive\Documents\src\SmartWasteManagement\SmartWasteManagement.Yolov5\bin\Debug\net6.0\SmartWasteManagement.InferenceModel.deps.json
+C:\Users\kabil\OneDrive\Documents\src\SmartWasteManagement\SmartWasteManagement.Yolov5\bin\Debug\net6.0\SmartWasteManagement.InferenceModel.dll
+C:\Users\kabil\OneDrive\Documents\src\SmartWasteManagement\SmartWasteManagement.Yolov5\bin\Debug\net6.0\SmartWasteManagement.InferenceModel.pdb
+C:\Users\kabil\OneDrive\Documents\src\SmartWasteManagement\SmartWasteManagement.Yolov5\obj\Debug\net6.0\SmartWasteManagement.InferenceModel.csproj.AssemblyReference.cache
+C:\Users\kabil\OneDrive\Documents\src\SmartWasteManagement\SmartWasteManagement.Yolov5\obj\Debug\net6.0\SmartWasteManagement.InferenceModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kabil\OneDrive\Documents\src\SmartWasteManagement\SmartWasteManagement.Yolov5\obj\Debug\net6.0\SmartWasteManagement.InferenceModel.AssemblyInfoInputs.cache
+C:\Users\kabil\OneDrive\Documents\src\SmartWasteManagement\SmartWasteManagement.Yolov5\obj\Debug\net6.0\SmartWasteManagement.InferenceModel.AssemblyInfo.cs
+C:\Users\kabil\OneDrive\Documents\src\SmartWasteManagement\SmartWasteManagement.Yolov5\obj\Debug\net6.0\SmartWasteManagement.InferenceModel.csproj.CoreCompileInputs.cache
+C:\Users\kabil\OneDrive\Documents\src\SmartWasteManagement\SmartWasteManagement.Yolov5\obj\Debug\net6.0\SmartWasteManagement.InferenceModel.dll
+C:\Users\kabil\OneDrive\Documents\src\SmartWasteManagement\SmartWasteManagement.Yolov5\obj\Debug\net6.0\refint\SmartWasteManagement.InferenceModel.dll
+C:\Users\kabil\OneDrive\Documents\src\SmartWasteManagement\SmartWasteManagement.Yolov5\obj\Debug\net6.0\SmartWasteManagement.InferenceModel.pdb
+C:\Users\kabil\OneDrive\Documents\src\SmartWasteManagement\SmartWasteManagement.Yolov5\obj\Debug\net6.0\ref\SmartWasteManagement.InferenceModel.dll
+C:\Users\User\Downloads\SmartWasteManagement\SmartWasteManagement\SmartWasteManagement.Yolov5\bin\Debug\net6.0\SmartWasteManagement.InferenceModel.deps.json
+C:\Users\User\Downloads\SmartWasteManagement\SmartWasteManagement\SmartWasteManagement.Yolov5\bin\Debug\net6.0\SmartWasteManagement.InferenceModel.dll
+C:\Users\User\Downloads\SmartWasteManagement\SmartWasteManagement\SmartWasteManagement.Yolov5\bin\Debug\net6.0\SmartWasteManagement.InferenceModel.pdb
+C:\Users\User\Downloads\SmartWasteManagement\SmartWasteManagement\SmartWasteManagement.Yolov5\obj\Debug\net6.0\SmartWasteManagement.InferenceModel.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\SmartWasteManagement\SmartWasteManagement\SmartWasteManagement.Yolov5\obj\Debug\net6.0\SmartWasteManagement.InferenceModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Downloads\SmartWasteManagement\SmartWasteManagement\SmartWasteManagement.Yolov5\obj\Debug\net6.0\SmartWasteManagement.InferenceModel.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\SmartWasteManagement\SmartWasteManagement\SmartWasteManagement.Yolov5\obj\Debug\net6.0\SmartWasteManagement.InferenceModel.AssemblyInfo.cs
+C:\Users\User\Downloads\SmartWasteManagement\SmartWasteManagement\SmartWasteManagement.Yolov5\obj\Debug\net6.0\SmartWasteManagement.InferenceModel.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\SmartWasteManagement\SmartWasteManagement\SmartWasteManagement.Yolov5\obj\Debug\net6.0\SmartWasteManagement.InferenceModel.dll
+C:\Users\User\Downloads\SmartWasteManagement\SmartWasteManagement\SmartWasteManagement.Yolov5\obj\Debug\net6.0\refint\SmartWasteManagement.InferenceModel.dll
+C:\Users\User\Downloads\SmartWasteManagement\SmartWasteManagement\SmartWasteManagement.Yolov5\obj\Debug\net6.0\SmartWasteManagement.InferenceModel.pdb
+C:\Users\User\Downloads\SmartWasteManagement\SmartWasteManagement\SmartWasteManagement.Yolov5\obj\Debug\net6.0\ref\SmartWasteManagement.InferenceModel.dll

@@ -1,0 +1,329 @@
+D:\Final Year Project\src\SmartWasteManagement\SmartWasteManagement,Main\obj\Debug\net6.0-windows\SmartWasteManagement.Main.csproj.AssemblyReference.cache
+D:\Final Year Project\src\SmartWasteManagement\SmartWasteManagement,Main\obj\Debug\net6.0-windows\SmartWasteManagement.Main.View.CalibrationPage.resources
+D:\Final Year Project\src\SmartWasteManagement\SmartWasteManagement,Main\obj\Debug\net6.0-windows\SmartWasteManagement.Main.View.HomePage.resources
+D:\Final Year Project\src\SmartWasteManagement\SmartWasteManagement,Main\obj\Debug\net6.0-windows\SmartWasteManagement.Main.csproj.GenerateResource.cache
+D:\Final Year Project\src\SmartWasteManagement\SmartWasteManagement,Main\obj\Debug\net6.0-windows\SmartWasteManagement.Main.GeneratedMSBuildEditorConfig.editorconfig
+D:\Final Year Project\src\SmartWasteManagement\SmartWasteManagement,Main\obj\Debug\net6.0-windows\SmartWasteManagement.Main.AssemblyInfoInputs.cache
+D:\Final Year Project\src\SmartWasteManagement\SmartWasteManagement,Main\obj\Debug\net6.0-windows\SmartWasteManagement.Main.AssemblyInfo.cs
+D:\Final Year Project\src\SmartWasteManagement\SmartWasteManagement,Main\obj\Debug\net6.0-windows\SmartWasteManagement.Main.csproj.CoreCompileInputs.cache
+D:\Final Year Project\src\SmartWasteManagement\SmartWasteManagement,Main\bin\Debug\net6.0-windows\SmartWasteManagement.Main.exe
+D:\Final Year Project\src\SmartWasteManagement\SmartWasteManagement,Main\bin\Debug\net6.0-windows\SmartWasteManagement.Main.deps.json
+D:\Final Year Project\src\SmartWasteManagement\SmartWasteManagement,Main\bin\Debug\net6.0-windows\SmartWasteManagement.Main.runtimeconfig.json
+D:\Final Year Project\src\SmartWasteManagement\SmartWasteManagement,Main\bin\Debug\net6.0-windows\SmartWasteManagement.Main.dll
+D:\Final Year Project\src\SmartWasteManagement\SmartWasteManagement,Main\bin\Debug\net6.0-windows\SmartWasteManagement.Main.pdb
+D:\Final Year Project\src\SmartWasteManagement\SmartWasteManagement,Main\bin\Debug\net6.0-windows\DirectShowLib.dll
+D:\Final Year Project\src\SmartWasteManagement\SmartWasteManagement,Main\bin\Debug\net6.0-windows\Emgu.CV.dll
+D:\Final Year Project\src\SmartWasteManagement\SmartWasteManagement,Main\bin\Debug\net6.0-windows\Microsoft.ML.OnnxRuntime.dll
+D:\Final Year Project\src\SmartWasteManagement\SmartWasteManagement,Main\bin\Debug\net6.0-windows\Microsoft.Win32.SystemEvents.dll
+D:\Final Year Project\src\SmartWasteManagement\SmartWasteManagement,Main\bin\Debug\net6.0-windows\OpenCvSharp.dll
+D:\Final Year Project\src\SmartWasteManagement\SmartWasteManagement,Main\bin\Debug\net6.0-windows\OpenCvSharp.Extensions.dll
+D:\Final Year Project\src\SmartWasteManagement\SmartWasteManagement,Main\bin\Debug\net6.0-windows\System.Drawing.Common.dll
+D:\Final Year Project\src\SmartWasteManagement\SmartWasteManagement,Main\bin\Debug\net6.0-windows\runtimes\android\native\onnxruntime.aar
+D:\Final Year Project\src\SmartWasteManagement\SmartWasteManagement,Main\bin\Debug\net6.0-windows\runtimes\ios\native\onnxruntime.xcframework\Info.plist
+D:\Final Year Project\src\SmartWasteManagement\SmartWasteManagement,Main\bin\Debug\net6.0-windows\runtimes\ios\native\onnxruntime.xcframework\ios-arm64\onnxruntime.framework\Headers\coreml_provider_factory.h
+D:\Final Year Project\src\SmartWasteManagement\SmartWasteManagement,Main\bin\Debug\net6.0-windows\runtimes\ios\native\onnxruntime.xcframework\ios-arm64\onnxruntime.framework\Headers\cpu_provider_factory.h
+D:\Final Year Project\src\SmartWasteManagement\SmartWasteManagement,Main\bin\Debug\net6.0-windows\runtimes\ios\native\onnxruntime.xcframework\ios-arm64\onnxruntime.framework\Headers\onnxruntime_c_api.h
+D:\Final Year Project\src\SmartWasteManagement\SmartWasteManagement,Main\bin\Debug\net6.0-windows\runtimes\ios\native\onnxruntime.xcframework\ios-arm64\onnxruntime.framework\Headers\onnxruntime_cxx_api.h
+D:\Final Year Project\src\SmartWasteManagement\SmartWasteManagement,Main\bin\Debug\net6.0-windows\runtimes\ios\native\onnxruntime.xcframework\ios-arm64\onnxruntime.framework\Headers\onnxruntime_cxx_inline.h
+D:\Final Year Project\src\SmartWasteManagement\SmartWasteManagement,Main\bin\Debug\net6.0-windows\runtimes\ios\native\onnxruntime.xcframework\ios-arm64\onnxruntime.framework\Info.plist
+D:\Final Year Project\src\SmartWasteManagement\SmartWasteManagement,Main\bin\Debug\net6.0-windows\runtimes\ios\native\onnxruntime.xcframework\ios-arm64\onnxruntime.framework\onnxruntime
+D:\Final Year Project\src\SmartWasteManagement\SmartWasteManagement,Main\bin\Debug\net6.0-windows\runtimes\ios\native\onnxruntime.xcframework\ios-arm64_x86_64-simulator\onnxruntime.framework\Headers\coreml_provider_factory.h
+D:\Final Year Project\src\SmartWasteManagement\SmartWasteManagement,Main\bin\Debug\net6.0-windows\runtimes\ios\native\onnxruntime.xcframework\ios-arm64_x86_64-simulator\onnxruntime.framework\Headers\cpu_provider_factory.h
+D:\Final Year Project\src\SmartWasteManagement\SmartWasteManagement,Main\bin\Debug\net6.0-windows\runtimes\ios\native\onnxruntime.xcframework\ios-arm64_x86_64-simulator\onnxruntime.framework\Headers\onnxruntime_c_api.h
+D:\Final Year Project\src\SmartWasteManagement\SmartWasteManagement,Main\bin\Debug\net6.0-windows\runtimes\ios\native\onnxruntime.xcframework\ios-arm64_x86_64-simulator\onnxruntime.framework\Headers\onnxruntime_cxx_api.h
+D:\Final Year Project\src\SmartWasteManagement\SmartWasteManagement,Main\bin\Debug\net6.0-windows\runtimes\ios\native\onnxruntime.xcframework\ios-arm64_x86_64-simulator\onnxruntime.framework\Headers\onnxruntime_cxx_inline.h
+D:\Final Year Project\src\SmartWasteManagement\SmartWasteManagement,Main\bin\Debug\net6.0-windows\runtimes\ios\native\onnxruntime.xcframework\ios-arm64_x86_64-simulator\onnxruntime.framework\Info.plist
+D:\Final Year Project\src\SmartWasteManagement\SmartWasteManagement,Main\bin\Debug\net6.0-windows\runtimes\ios\native\onnxruntime.xcframework\ios-arm64_x86_64-simulator\onnxruntime.framework\onnxruntime
+D:\Final Year Project\src\SmartWasteManagement\SmartWasteManagement,Main\bin\Debug\net6.0-windows\runtimes\linux-arm64\native\libonnxruntime.so
+D:\Final Year Project\src\SmartWasteManagement\SmartWasteManagement,Main\bin\Debug\net6.0-windows\runtimes\linux-x64\native\libonnxruntime.so
+D:\Final Year Project\src\SmartWasteManagement\SmartWasteManagement,Main\bin\Debug\net6.0-windows\runtimes\win-arm\native\onnxruntime.dll
+D:\Final Year Project\src\SmartWasteManagement\SmartWasteManagement,Main\bin\Debug\net6.0-windows\runtimes\win-arm\native\onnxruntime.lib
+D:\Final Year Project\src\SmartWasteManagement\SmartWasteManagement,Main\bin\Debug\net6.0-windows\runtimes\win-arm\native\onnxruntime_providers_shared.dll
+D:\Final Year Project\src\SmartWasteManagement\SmartWasteManagement,Main\bin\Debug\net6.0-windows\runtimes\win-arm\native\onnxruntime_providers_shared.lib
+D:\Final Year Project\src\SmartWasteManagement\SmartWasteManagement,Main\bin\Debug\net6.0-windows\runtimes\win-arm64\native\onnxruntime.dll
+D:\Final Year Project\src\SmartWasteManagement\SmartWasteManagement,Main\bin\Debug\net6.0-windows\runtimes\win-arm64\native\onnxruntime.lib
+D:\Final Year Project\src\SmartWasteManagement\SmartWasteManagement,Main\bin\Debug\net6.0-windows\runtimes\win-arm64\native\onnxruntime_providers_shared.dll
+D:\Final Year Project\src\SmartWasteManagement\SmartWasteManagement,Main\bin\Debug\net6.0-windows\runtimes\win-arm64\native\onnxruntime_providers_shared.lib
+D:\Final Year Project\src\SmartWasteManagement\SmartWasteManagement,Main\bin\Debug\net6.0-windows\runtimes\win-x64\native\onnxruntime.dll
+D:\Final Year Project\src\SmartWasteManagement\SmartWasteManagement,Main\bin\Debug\net6.0-windows\runtimes\win-x64\native\onnxruntime.lib
+D:\Final Year Project\src\SmartWasteManagement\SmartWasteManagement,Main\bin\Debug\net6.0-windows\runtimes\win-x64\native\onnxruntime_providers_shared.dll
+D:\Final Year Project\src\SmartWasteManagement\SmartWasteManagement,Main\bin\Debug\net6.0-windows\runtimes\win-x64\native\onnxruntime_providers_shared.lib
+D:\Final Year Project\src\SmartWasteManagement\SmartWasteManagement,Main\bin\Debug\net6.0-windows\runtimes\win-x86\native\onnxruntime.dll
+D:\Final Year Project\src\SmartWasteManagement\SmartWasteManagement,Main\bin\Debug\net6.0-windows\runtimes\win-x86\native\onnxruntime.lib
+D:\Final Year Project\src\SmartWasteManagement\SmartWasteManagement,Main\bin\Debug\net6.0-windows\runtimes\win-x86\native\onnxruntime_providers_shared.dll
+D:\Final Year Project\src\SmartWasteManagement\SmartWasteManagement,Main\bin\Debug\net6.0-windows\runtimes\win-x86\native\onnxruntime_providers_shared.lib
+D:\Final Year Project\src\SmartWasteManagement\SmartWasteManagement,Main\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Final Year Project\src\SmartWasteManagement\SmartWasteManagement,Main\bin\Debug\net6.0-windows\runtimes\win-x64\native\OpenCvSharpExtern.dll
+D:\Final Year Project\src\SmartWasteManagement\SmartWasteManagement,Main\bin\Debug\net6.0-windows\runtimes\win-x86\native\OpenCvSharpExtern.dll
+D:\Final Year Project\src\SmartWasteManagement\SmartWasteManagement,Main\bin\Debug\net6.0-windows\SmartWasteManagement.InferenceModel.dll
+D:\Final Year Project\src\SmartWasteManagement\SmartWasteManagement,Main\bin\Debug\net6.0-windows\SmartWasteManagement.InferenceModel.pdb
+D:\Final Year Project\src\SmartWasteManagement\SmartWasteManagement,Main\obj\Debug\net6.0-windows\SmartWasteManagement.Main.csproj.CopyComplete
+D:\Final Year Project\src\SmartWasteManagement\SmartWasteManagement,Main\obj\Debug\net6.0-windows\SmartWasteManagement.Main.dll
+D:\Final Year Project\src\SmartWasteManagement\SmartWasteManagement,Main\obj\Debug\net6.0-windows\refint\SmartWasteManagement.Main.dll
+D:\Final Year Project\src\SmartWasteManagement\SmartWasteManagement,Main\obj\Debug\net6.0-windows\SmartWasteManagement.Main.pdb
+D:\Final Year Project\src\SmartWasteManagement\SmartWasteManagement,Main\obj\Debug\net6.0-windows\SmartWasteManagement.Main.genruntimeconfig.cache
+D:\Final Year Project\src\SmartWasteManagement\SmartWasteManagement,Main\obj\Debug\net6.0-windows\ref\SmartWasteManagement.Main.dll
+D:\Final Year Project\src\SmartWasteManagement\SmartWasteManagement,Main\obj\Debug\net6.0-windows\SmartWasteManagement.Main.Properties.Resources.resources
+D:\Final Year Project\src\SmartWasteManagement\SmartWasteManagement,Main\bin\Debug\net6.0-windows\AWSSDK.Core.dll
+D:\Final Year Project\src\SmartWasteManagement\SmartWasteManagement,Main\bin\Debug\net6.0-windows\AWSSDK.SecurityToken.dll
+D:\Final Year Project\src\SmartWasteManagement\SmartWasteManagement,Main\bin\Debug\net6.0-windows\DnsClient.dll
+D:\Final Year Project\src\SmartWasteManagement\SmartWasteManagement,Main\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Final Year Project\src\SmartWasteManagement\SmartWasteManagement,Main\bin\Debug\net6.0-windows\MongoDB.Bson.dll
+D:\Final Year Project\src\SmartWasteManagement\SmartWasteManagement,Main\bin\Debug\net6.0-windows\MongoDB.Driver.dll
+D:\Final Year Project\src\SmartWasteManagement\SmartWasteManagement,Main\bin\Debug\net6.0-windows\MongoDB.Driver.Core.dll
+D:\Final Year Project\src\SmartWasteManagement\SmartWasteManagement,Main\bin\Debug\net6.0-windows\MongoDB.Libmongocrypt.dll
+D:\Final Year Project\src\SmartWasteManagement\SmartWasteManagement,Main\bin\Debug\net6.0-windows\SharpCompress.dll
+D:\Final Year Project\src\SmartWasteManagement\SmartWasteManagement,Main\bin\Debug\net6.0-windows\Snappier.dll
+D:\Final Year Project\src\SmartWasteManagement\SmartWasteManagement,Main\bin\Debug\net6.0-windows\ZstdSharp.dll
+D:\Final Year Project\src\SmartWasteManagement\SmartWasteManagement,Main\bin\Debug\net6.0-windows\runtimes\linux\native\libmongocrypt.so
+D:\Final Year Project\src\SmartWasteManagement\SmartWasteManagement,Main\bin\Debug\net6.0-windows\runtimes\osx\native\libmongocrypt.dylib
+D:\Final Year Project\src\SmartWasteManagement\SmartWasteManagement,Main\bin\Debug\net6.0-windows\runtimes\win\native\mongocrypt.dll
+D:\Final Year Project\src\SmartWasteManagement\SmartWasteManagement,Main\obj\Debug\net6.0-windows\SmartWasteManagement.Main.View.ReportingPage.resources
+D:\Final Year Project\src\SmartWasteManagement\SmartWasteManagement,Main\obj\Debug\net6.0-windows\SmartWasteManagement.Main.View.SensorsThresholdPage.resources
+D:\Final Year Project\src\SmartWasteManagement\SmartWasteManagement,Main\bin\Debug\net6.0-windows\System.IO.Ports.dll
+D:\Final Year Project\src\SmartWasteManagement\SmartWasteManagement,Main\bin\Debug\net6.0-windows\runtimes\linux-arm\native\libSystem.IO.Ports.Native.so
+D:\Final Year Project\src\SmartWasteManagement\SmartWasteManagement,Main\bin\Debug\net6.0-windows\runtimes\linux-arm64\native\libSystem.IO.Ports.Native.so
+D:\Final Year Project\src\SmartWasteManagement\SmartWasteManagement,Main\bin\Debug\net6.0-windows\runtimes\linux-x64\native\libSystem.IO.Ports.Native.so
+D:\Final Year Project\src\SmartWasteManagement\SmartWasteManagement,Main\bin\Debug\net6.0-windows\runtimes\osx-arm64\native\libSystem.IO.Ports.Native.dylib
+D:\Final Year Project\src\SmartWasteManagement\SmartWasteManagement,Main\bin\Debug\net6.0-windows\runtimes\osx-x64\native\libSystem.IO.Ports.Native.dylib
+D:\Final Year Project\src\SmartWasteManagement\SmartWasteManagement,Main\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\System.IO.Ports.dll
+D:\Final Year Project\src\SmartWasteManagement\SmartWasteManagement,Main\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.IO.Ports.dll
+D:\Final Year Project\src\SmartWasteManagement\SmartWasteManagement,Main\obj\Debug\net6.0-windows\SmartWasteManagement.Main.View.LoginPage.resources
+D:\Final Year Project\src\SmartWasteManagement\SmartWasteManagement,Main\obj\Debug\net6.0-windows\SmartWasteManagement.Main.View.RegisterUserPage.resources
+D:\Final Year Project\src\SmartWasteManagement\SmartWasteManagement,Main\obj\Debug\net6.0-windows\SmartWasteManagement.Main.View.AboutPage.resources
+D:\Final Year Project\src\SmartWasteManagement\SmartWasteManagement,Main\bin\Debug\net6.0-windows\ScottPlot.dll
+D:\Final Year Project\src\SmartWasteManagement\SmartWasteManagement,Main\bin\Debug\net6.0-windows\ScottPlot.WinForms.dll
+D:\Final Year Project\src\SmartWasteManagement\SmartWasteManagement,Main\bin\Debug\net6.0-windows\ClosedXML.dll
+D:\Final Year Project\src\SmartWasteManagement\SmartWasteManagement,Main\bin\Debug\net6.0-windows\DocumentFormat.OpenXml.dll
+D:\Final Year Project\src\SmartWasteManagement\SmartWasteManagement,Main\bin\Debug\net6.0-windows\ExcelNumberFormat.dll
+D:\Final Year Project\src\SmartWasteManagement\SmartWasteManagement,Main\bin\Debug\net6.0-windows\Irony.dll
+D:\Final Year Project\src\SmartWasteManagement\SmartWasteManagement,Main\bin\Debug\net6.0-windows\SixLabors.Fonts.dll
+D:\Final Year Project\src\SmartWasteManagement\SmartWasteManagement,Main\bin\Debug\net6.0-windows\XLParser.dll
+C:\Users\kabil\OneDrive\Documents\src\SmartWasteManagement\SmartWasteManagement,Main\obj\Debug\net6.0-windows\SmartWasteManagement.Main.csproj.AssemblyReference.cache
+C:\Users\kabil\OneDrive\Documents\src\SmartWasteManagement\SmartWasteManagement,Main\obj\Debug\net6.0-windows\SmartWasteManagement.Main.Properties.Resources.resources
+C:\Users\kabil\OneDrive\Documents\src\SmartWasteManagement\SmartWasteManagement,Main\obj\Debug\net6.0-windows\SmartWasteManagement.Main.View.AboutPage.resources
+C:\Users\kabil\OneDrive\Documents\src\SmartWasteManagement\SmartWasteManagement,Main\obj\Debug\net6.0-windows\SmartWasteManagement.Main.View.CalibrationPage.resources
+C:\Users\kabil\OneDrive\Documents\src\SmartWasteManagement\SmartWasteManagement,Main\obj\Debug\net6.0-windows\SmartWasteManagement.Main.View.HomePage.resources
+C:\Users\kabil\OneDrive\Documents\src\SmartWasteManagement\SmartWasteManagement,Main\obj\Debug\net6.0-windows\SmartWasteManagement.Main.View.LoginPage.resources
+C:\Users\kabil\OneDrive\Documents\src\SmartWasteManagement\SmartWasteManagement,Main\obj\Debug\net6.0-windows\SmartWasteManagement.Main.View.RegisterUserPage.resources
+C:\Users\kabil\OneDrive\Documents\src\SmartWasteManagement\SmartWasteManagement,Main\obj\Debug\net6.0-windows\SmartWasteManagement.Main.View.ReportingPage.resources
+C:\Users\kabil\OneDrive\Documents\src\SmartWasteManagement\SmartWasteManagement,Main\obj\Debug\net6.0-windows\SmartWasteManagement.Main.View.SensorsLogPage.resources
+C:\Users\kabil\OneDrive\Documents\src\SmartWasteManagement\SmartWasteManagement,Main\obj\Debug\net6.0-windows\SmartWasteManagement.Main.View.SensorsThresholdPage.resources
+C:\Users\kabil\OneDrive\Documents\src\SmartWasteManagement\SmartWasteManagement,Main\obj\Debug\net6.0-windows\SmartWasteManagement.Main.csproj.GenerateResource.cache
+C:\Users\kabil\OneDrive\Documents\src\SmartWasteManagement\SmartWasteManagement,Main\obj\Debug\net6.0-windows\SmartWasteManagement.Main.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kabil\OneDrive\Documents\src\SmartWasteManagement\SmartWasteManagement,Main\obj\Debug\net6.0-windows\SmartWasteManagement.Main.AssemblyInfoInputs.cache
+C:\Users\kabil\OneDrive\Documents\src\SmartWasteManagement\SmartWasteManagement,Main\obj\Debug\net6.0-windows\SmartWasteManagement.Main.AssemblyInfo.cs
+C:\Users\kabil\OneDrive\Documents\src\SmartWasteManagement\SmartWasteManagement,Main\obj\Debug\net6.0-windows\SmartWasteManagement.Main.csproj.CoreCompileInputs.cache
+C:\Users\kabil\OneDrive\Documents\src\SmartWasteManagement\SmartWasteManagement,Main\obj\Debug\net6.0-windows\SmartWasteManagement.Main.dll
+C:\Users\kabil\OneDrive\Documents\src\SmartWasteManagement\SmartWasteManagement,Main\obj\Debug\net6.0-windows\refint\SmartWasteManagement.Main.dll
+C:\Users\kabil\OneDrive\Documents\src\SmartWasteManagement\SmartWasteManagement,Main\obj\Debug\net6.0-windows\SmartWasteManagement.Main.pdb
+C:\Users\kabil\OneDrive\Documents\src\SmartWasteManagement\SmartWasteManagement,Main\bin\Debug\net6.0-windows\SmartWasteManagement.Main.exe
+C:\Users\kabil\OneDrive\Documents\src\SmartWasteManagement\SmartWasteManagement,Main\bin\Debug\net6.0-windows\SmartWasteManagement.Main.deps.json
+C:\Users\kabil\OneDrive\Documents\src\SmartWasteManagement\SmartWasteManagement,Main\bin\Debug\net6.0-windows\SmartWasteManagement.Main.runtimeconfig.json
+C:\Users\kabil\OneDrive\Documents\src\SmartWasteManagement\SmartWasteManagement,Main\bin\Debug\net6.0-windows\SmartWasteManagement.Main.dll
+C:\Users\kabil\OneDrive\Documents\src\SmartWasteManagement\SmartWasteManagement,Main\bin\Debug\net6.0-windows\SmartWasteManagement.Main.pdb
+C:\Users\kabil\OneDrive\Documents\src\SmartWasteManagement\SmartWasteManagement,Main\bin\Debug\net6.0-windows\AWSSDK.Core.dll
+C:\Users\kabil\OneDrive\Documents\src\SmartWasteManagement\SmartWasteManagement,Main\bin\Debug\net6.0-windows\AWSSDK.SecurityToken.dll
+C:\Users\kabil\OneDrive\Documents\src\SmartWasteManagement\SmartWasteManagement,Main\bin\Debug\net6.0-windows\ClosedXML.dll
+C:\Users\kabil\OneDrive\Documents\src\SmartWasteManagement\SmartWasteManagement,Main\bin\Debug\net6.0-windows\DirectShowLib.dll
+C:\Users\kabil\OneDrive\Documents\src\SmartWasteManagement\SmartWasteManagement,Main\bin\Debug\net6.0-windows\DnsClient.dll
+C:\Users\kabil\OneDrive\Documents\src\SmartWasteManagement\SmartWasteManagement,Main\bin\Debug\net6.0-windows\DocumentFormat.OpenXml.dll
+C:\Users\kabil\OneDrive\Documents\src\SmartWasteManagement\SmartWasteManagement,Main\bin\Debug\net6.0-windows\Emgu.CV.dll
+C:\Users\kabil\OneDrive\Documents\src\SmartWasteManagement\SmartWasteManagement,Main\bin\Debug\net6.0-windows\ExcelNumberFormat.dll
+C:\Users\kabil\OneDrive\Documents\src\SmartWasteManagement\SmartWasteManagement,Main\bin\Debug\net6.0-windows\Irony.dll
+C:\Users\kabil\OneDrive\Documents\src\SmartWasteManagement\SmartWasteManagement,Main\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\kabil\OneDrive\Documents\src\SmartWasteManagement\SmartWasteManagement,Main\bin\Debug\net6.0-windows\Microsoft.ML.OnnxRuntime.dll
+C:\Users\kabil\OneDrive\Documents\src\SmartWasteManagement\SmartWasteManagement,Main\bin\Debug\net6.0-windows\Microsoft.Win32.SystemEvents.dll
+C:\Users\kabil\OneDrive\Documents\src\SmartWasteManagement\SmartWasteManagement,Main\bin\Debug\net6.0-windows\MongoDB.Bson.dll
+C:\Users\kabil\OneDrive\Documents\src\SmartWasteManagement\SmartWasteManagement,Main\bin\Debug\net6.0-windows\MongoDB.Driver.dll
+C:\Users\kabil\OneDrive\Documents\src\SmartWasteManagement\SmartWasteManagement,Main\bin\Debug\net6.0-windows\MongoDB.Driver.Core.dll
+C:\Users\kabil\OneDrive\Documents\src\SmartWasteManagement\SmartWasteManagement,Main\bin\Debug\net6.0-windows\MongoDB.Libmongocrypt.dll
+C:\Users\kabil\OneDrive\Documents\src\SmartWasteManagement\SmartWasteManagement,Main\bin\Debug\net6.0-windows\OpenCvSharp.dll
+C:\Users\kabil\OneDrive\Documents\src\SmartWasteManagement\SmartWasteManagement,Main\bin\Debug\net6.0-windows\OpenCvSharp.Extensions.dll
+C:\Users\kabil\OneDrive\Documents\src\SmartWasteManagement\SmartWasteManagement,Main\bin\Debug\net6.0-windows\ScottPlot.dll
+C:\Users\kabil\OneDrive\Documents\src\SmartWasteManagement\SmartWasteManagement,Main\bin\Debug\net6.0-windows\ScottPlot.WinForms.dll
+C:\Users\kabil\OneDrive\Documents\src\SmartWasteManagement\SmartWasteManagement,Main\bin\Debug\net6.0-windows\SharpCompress.dll
+C:\Users\kabil\OneDrive\Documents\src\SmartWasteManagement\SmartWasteManagement,Main\bin\Debug\net6.0-windows\SixLabors.Fonts.dll
+C:\Users\kabil\OneDrive\Documents\src\SmartWasteManagement\SmartWasteManagement,Main\bin\Debug\net6.0-windows\Snappier.dll
+C:\Users\kabil\OneDrive\Documents\src\SmartWasteManagement\SmartWasteManagement,Main\bin\Debug\net6.0-windows\System.Drawing.Common.dll
+C:\Users\kabil\OneDrive\Documents\src\SmartWasteManagement\SmartWasteManagement,Main\bin\Debug\net6.0-windows\System.IO.Ports.dll
+C:\Users\kabil\OneDrive\Documents\src\SmartWasteManagement\SmartWasteManagement,Main\bin\Debug\net6.0-windows\XLParser.dll
+C:\Users\kabil\OneDrive\Documents\src\SmartWasteManagement\SmartWasteManagement,Main\bin\Debug\net6.0-windows\ZstdSharp.dll
+C:\Users\kabil\OneDrive\Documents\src\SmartWasteManagement\SmartWasteManagement,Main\bin\Debug\net6.0-windows\runtimes\android\native\onnxruntime.aar
+C:\Users\kabil\OneDrive\Documents\src\SmartWasteManagement\SmartWasteManagement,Main\bin\Debug\net6.0-windows\runtimes\ios\native\onnxruntime.xcframework\Info.plist
+C:\Users\kabil\OneDrive\Documents\src\SmartWasteManagement\SmartWasteManagement,Main\bin\Debug\net6.0-windows\runtimes\ios\native\onnxruntime.xcframework\ios-arm64\onnxruntime.framework\Headers\coreml_provider_factory.h
+C:\Users\kabil\OneDrive\Documents\src\SmartWasteManagement\SmartWasteManagement,Main\bin\Debug\net6.0-windows\runtimes\ios\native\onnxruntime.xcframework\ios-arm64\onnxruntime.framework\Headers\cpu_provider_factory.h
+C:\Users\kabil\OneDrive\Documents\src\SmartWasteManagement\SmartWasteManagement,Main\bin\Debug\net6.0-windows\runtimes\ios\native\onnxruntime.xcframework\ios-arm64\onnxruntime.framework\Headers\onnxruntime_c_api.h
+C:\Users\kabil\OneDrive\Documents\src\SmartWasteManagement\SmartWasteManagement,Main\bin\Debug\net6.0-windows\runtimes\ios\native\onnxruntime.xcframework\ios-arm64\onnxruntime.framework\Headers\onnxruntime_cxx_api.h
+C:\Users\kabil\OneDrive\Documents\src\SmartWasteManagement\SmartWasteManagement,Main\bin\Debug\net6.0-windows\runtimes\ios\native\onnxruntime.xcframework\ios-arm64\onnxruntime.framework\Headers\onnxruntime_cxx_inline.h
+C:\Users\kabil\OneDrive\Documents\src\SmartWasteManagement\SmartWasteManagement,Main\bin\Debug\net6.0-windows\runtimes\ios\native\onnxruntime.xcframework\ios-arm64\onnxruntime.framework\Info.plist
+C:\Users\kabil\OneDrive\Documents\src\SmartWasteManagement\SmartWasteManagement,Main\bin\Debug\net6.0-windows\runtimes\ios\native\onnxruntime.xcframework\ios-arm64\onnxruntime.framework\onnxruntime
+C:\Users\kabil\OneDrive\Documents\src\SmartWasteManagement\SmartWasteManagement,Main\bin\Debug\net6.0-windows\runtimes\ios\native\onnxruntime.xcframework\ios-arm64_x86_64-simulator\onnxruntime.framework\Headers\coreml_provider_factory.h
+C:\Users\kabil\OneDrive\Documents\src\SmartWasteManagement\SmartWasteManagement,Main\bin\Debug\net6.0-windows\runtimes\ios\native\onnxruntime.xcframework\ios-arm64_x86_64-simulator\onnxruntime.framework\Headers\cpu_provider_factory.h
+C:\Users\kabil\OneDrive\Documents\src\SmartWasteManagement\SmartWasteManagement,Main\bin\Debug\net6.0-windows\runtimes\ios\native\onnxruntime.xcframework\ios-arm64_x86_64-simulator\onnxruntime.framework\Headers\onnxruntime_c_api.h
+C:\Users\kabil\OneDrive\Documents\src\SmartWasteManagement\SmartWasteManagement,Main\bin\Debug\net6.0-windows\runtimes\ios\native\onnxruntime.xcframework\ios-arm64_x86_64-simulator\onnxruntime.framework\Headers\onnxruntime_cxx_api.h
+C:\Users\kabil\OneDrive\Documents\src\SmartWasteManagement\SmartWasteManagement,Main\bin\Debug\net6.0-windows\runtimes\ios\native\onnxruntime.xcframework\ios-arm64_x86_64-simulator\onnxruntime.framework\Headers\onnxruntime_cxx_inline.h
+C:\Users\kabil\OneDrive\Documents\src\SmartWasteManagement\SmartWasteManagement,Main\bin\Debug\net6.0-windows\runtimes\ios\native\onnxruntime.xcframework\ios-arm64_x86_64-simulator\onnxruntime.framework\Info.plist
+C:\Users\kabil\OneDrive\Documents\src\SmartWasteManagement\SmartWasteManagement,Main\bin\Debug\net6.0-windows\runtimes\ios\native\onnxruntime.xcframework\ios-arm64_x86_64-simulator\onnxruntime.framework\onnxruntime
+C:\Users\kabil\OneDrive\Documents\src\SmartWasteManagement\SmartWasteManagement,Main\bin\Debug\net6.0-windows\runtimes\linux-arm64\native\libonnxruntime.so
+C:\Users\kabil\OneDrive\Documents\src\SmartWasteManagement\SmartWasteManagement,Main\bin\Debug\net6.0-windows\runtimes\linux-x64\native\libonnxruntime.so
+C:\Users\kabil\OneDrive\Documents\src\SmartWasteManagement\SmartWasteManagement,Main\bin\Debug\net6.0-windows\runtimes\osx.10.14-arm64\native\libonnxruntime.dylib
+C:\Users\kabil\OneDrive\Documents\src\SmartWasteManagement\SmartWasteManagement,Main\bin\Debug\net6.0-windows\runtimes\osx.10.14-x64\native\libonnxruntime.dylib
+C:\Users\kabil\OneDrive\Documents\src\SmartWasteManagement\SmartWasteManagement,Main\bin\Debug\net6.0-windows\runtimes\win-arm\native\onnxruntime.dll
+C:\Users\kabil\OneDrive\Documents\src\SmartWasteManagement\SmartWasteManagement,Main\bin\Debug\net6.0-windows\runtimes\win-arm\native\onnxruntime.lib
+C:\Users\kabil\OneDrive\Documents\src\SmartWasteManagement\SmartWasteManagement,Main\bin\Debug\net6.0-windows\runtimes\win-arm\native\onnxruntime_providers_shared.dll
+C:\Users\kabil\OneDrive\Documents\src\SmartWasteManagement\SmartWasteManagement,Main\bin\Debug\net6.0-windows\runtimes\win-arm\native\onnxruntime_providers_shared.lib
+C:\Users\kabil\OneDrive\Documents\src\SmartWasteManagement\SmartWasteManagement,Main\bin\Debug\net6.0-windows\runtimes\win-arm64\native\onnxruntime.dll
+C:\Users\kabil\OneDrive\Documents\src\SmartWasteManagement\SmartWasteManagement,Main\bin\Debug\net6.0-windows\runtimes\win-arm64\native\onnxruntime.lib
+C:\Users\kabil\OneDrive\Documents\src\SmartWasteManagement\SmartWasteManagement,Main\bin\Debug\net6.0-windows\runtimes\win-arm64\native\onnxruntime_providers_shared.dll
+C:\Users\kabil\OneDrive\Documents\src\SmartWasteManagement\SmartWasteManagement,Main\bin\Debug\net6.0-windows\runtimes\win-arm64\native\onnxruntime_providers_shared.lib
+C:\Users\kabil\OneDrive\Documents\src\SmartWasteManagement\SmartWasteManagement,Main\bin\Debug\net6.0-windows\runtimes\win-x64\native\onnxruntime.dll
+C:\Users\kabil\OneDrive\Documents\src\SmartWasteManagement\SmartWasteManagement,Main\bin\Debug\net6.0-windows\runtimes\win-x64\native\onnxruntime.lib
+C:\Users\kabil\OneDrive\Documents\src\SmartWasteManagement\SmartWasteManagement,Main\bin\Debug\net6.0-windows\runtimes\win-x64\native\onnxruntime_providers_shared.dll
+C:\Users\kabil\OneDrive\Documents\src\SmartWasteManagement\SmartWasteManagement,Main\bin\Debug\net6.0-windows\runtimes\win-x64\native\onnxruntime_providers_shared.lib
+C:\Users\kabil\OneDrive\Documents\src\SmartWasteManagement\SmartWasteManagement,Main\bin\Debug\net6.0-windows\runtimes\win-x86\native\onnxruntime.dll
+C:\Users\kabil\OneDrive\Documents\src\SmartWasteManagement\SmartWasteManagement,Main\bin\Debug\net6.0-windows\runtimes\win-x86\native\onnxruntime.lib
+C:\Users\kabil\OneDrive\Documents\src\SmartWasteManagement\SmartWasteManagement,Main\bin\Debug\net6.0-windows\runtimes\win-x86\native\onnxruntime_providers_shared.dll
+C:\Users\kabil\OneDrive\Documents\src\SmartWasteManagement\SmartWasteManagement,Main\bin\Debug\net6.0-windows\runtimes\win-x86\native\onnxruntime_providers_shared.lib
+C:\Users\kabil\OneDrive\Documents\src\SmartWasteManagement\SmartWasteManagement,Main\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\kabil\OneDrive\Documents\src\SmartWasteManagement\SmartWasteManagement,Main\bin\Debug\net6.0-windows\runtimes\linux\native\libmongocrypt.so
+C:\Users\kabil\OneDrive\Documents\src\SmartWasteManagement\SmartWasteManagement,Main\bin\Debug\net6.0-windows\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\kabil\OneDrive\Documents\src\SmartWasteManagement\SmartWasteManagement,Main\bin\Debug\net6.0-windows\runtimes\win\native\mongocrypt.dll
+C:\Users\kabil\OneDrive\Documents\src\SmartWasteManagement\SmartWasteManagement,Main\bin\Debug\net6.0-windows\runtimes\win-x64\native\OpenCvSharpExtern.dll
+C:\Users\kabil\OneDrive\Documents\src\SmartWasteManagement\SmartWasteManagement,Main\bin\Debug\net6.0-windows\runtimes\win-x64\native\opencv_videoio_ffmpeg470_64.dll
+C:\Users\kabil\OneDrive\Documents\src\SmartWasteManagement\SmartWasteManagement,Main\bin\Debug\net6.0-windows\runtimes\win-x86\native\OpenCvSharpExtern.dll
+C:\Users\kabil\OneDrive\Documents\src\SmartWasteManagement\SmartWasteManagement,Main\bin\Debug\net6.0-windows\runtimes\win-x86\native\opencv_videoio_ffmpeg470.dll
+C:\Users\kabil\OneDrive\Documents\src\SmartWasteManagement\SmartWasteManagement,Main\bin\Debug\net6.0-windows\runtimes\linux-arm\native\libSystem.IO.Ports.Native.so
+C:\Users\kabil\OneDrive\Documents\src\SmartWasteManagement\SmartWasteManagement,Main\bin\Debug\net6.0-windows\runtimes\linux-arm64\native\libSystem.IO.Ports.Native.so
+C:\Users\kabil\OneDrive\Documents\src\SmartWasteManagement\SmartWasteManagement,Main\bin\Debug\net6.0-windows\runtimes\linux-x64\native\libSystem.IO.Ports.Native.so
+C:\Users\kabil\OneDrive\Documents\src\SmartWasteManagement\SmartWasteManagement,Main\bin\Debug\net6.0-windows\runtimes\osx-arm64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\kabil\OneDrive\Documents\src\SmartWasteManagement\SmartWasteManagement,Main\bin\Debug\net6.0-windows\runtimes\osx-x64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\kabil\OneDrive\Documents\src\SmartWasteManagement\SmartWasteManagement,Main\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\kabil\OneDrive\Documents\src\SmartWasteManagement\SmartWasteManagement,Main\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\System.IO.Ports.dll
+C:\Users\kabil\OneDrive\Documents\src\SmartWasteManagement\SmartWasteManagement,Main\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.IO.Ports.dll
+C:\Users\kabil\OneDrive\Documents\src\SmartWasteManagement\SmartWasteManagement,Main\bin\Debug\net6.0-windows\SmartWasteManagement.InferenceModel.dll
+C:\Users\kabil\OneDrive\Documents\src\SmartWasteManagement\SmartWasteManagement,Main\bin\Debug\net6.0-windows\SmartWasteManagement.InferenceModel.pdb
+C:\Users\kabil\OneDrive\Documents\src\SmartWasteManagement\SmartWasteManagement,Main\obj\Debug\net6.0-windows\SmartWasteManagement.Main.csproj.CopyComplete
+C:\Users\kabil\OneDrive\Documents\src\SmartWasteManagement\SmartWasteManagement,Main\obj\Debug\net6.0-windows\SmartWasteManagement.Main.genruntimeconfig.cache
+C:\Users\kabil\OneDrive\Documents\src\SmartWasteManagement\SmartWasteManagement,Main\obj\Debug\net6.0-windows\ref\SmartWasteManagement.Main.dll
+C:\Users\User\Downloads\SmartWasteManagement\SmartWasteManagement\SmartWasteManagement,Main\obj\Debug\net6.0-windows\SmartWasteManagement.Main.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\SmartWasteManagement\SmartWasteManagement\SmartWasteManagement,Main\obj\Debug\net6.0-windows\SmartWasteManagement.Main.dll
+C:\Users\User\Downloads\SmartWasteManagement\SmartWasteManagement\SmartWasteManagement,Main\obj\Debug\net6.0-windows\refint\SmartWasteManagement.Main.dll
+C:\Users\User\Downloads\SmartWasteManagement\SmartWasteManagement\SmartWasteManagement,Main\obj\Debug\net6.0-windows\SmartWasteManagement.Main.pdb
+C:\Users\User\Downloads\SmartWasteManagement\SmartWasteManagement\SmartWasteManagement,Main\bin\Debug\net6.0-windows\SmartWasteManagement.Main.exe
+C:\Users\User\Downloads\SmartWasteManagement\SmartWasteManagement\SmartWasteManagement,Main\bin\Debug\net6.0-windows\SmartWasteManagement.Main.deps.json
+C:\Users\User\Downloads\SmartWasteManagement\SmartWasteManagement\SmartWasteManagement,Main\bin\Debug\net6.0-windows\SmartWasteManagement.Main.runtimeconfig.json
+C:\Users\User\Downloads\SmartWasteManagement\SmartWasteManagement\SmartWasteManagement,Main\bin\Debug\net6.0-windows\SmartWasteManagement.Main.dll
+C:\Users\User\Downloads\SmartWasteManagement\SmartWasteManagement\SmartWasteManagement,Main\bin\Debug\net6.0-windows\SmartWasteManagement.Main.pdb
+C:\Users\User\Downloads\SmartWasteManagement\SmartWasteManagement\SmartWasteManagement,Main\bin\Debug\net6.0-windows\AWSSDK.Core.dll
+C:\Users\User\Downloads\SmartWasteManagement\SmartWasteManagement\SmartWasteManagement,Main\bin\Debug\net6.0-windows\AWSSDK.SecurityToken.dll
+C:\Users\User\Downloads\SmartWasteManagement\SmartWasteManagement\SmartWasteManagement,Main\bin\Debug\net6.0-windows\ClosedXML.dll
+C:\Users\User\Downloads\SmartWasteManagement\SmartWasteManagement\SmartWasteManagement,Main\bin\Debug\net6.0-windows\DirectShowLib.dll
+C:\Users\User\Downloads\SmartWasteManagement\SmartWasteManagement\SmartWasteManagement,Main\bin\Debug\net6.0-windows\DnsClient.dll
+C:\Users\User\Downloads\SmartWasteManagement\SmartWasteManagement\SmartWasteManagement,Main\bin\Debug\net6.0-windows\DocumentFormat.OpenXml.dll
+C:\Users\User\Downloads\SmartWasteManagement\SmartWasteManagement\SmartWasteManagement,Main\bin\Debug\net6.0-windows\Emgu.CV.dll
+C:\Users\User\Downloads\SmartWasteManagement\SmartWasteManagement\SmartWasteManagement,Main\bin\Debug\net6.0-windows\ExcelNumberFormat.dll
+C:\Users\User\Downloads\SmartWasteManagement\SmartWasteManagement\SmartWasteManagement,Main\bin\Debug\net6.0-windows\Irony.dll
+C:\Users\User\Downloads\SmartWasteManagement\SmartWasteManagement\SmartWasteManagement,Main\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\User\Downloads\SmartWasteManagement\SmartWasteManagement\SmartWasteManagement,Main\bin\Debug\net6.0-windows\Microsoft.ML.OnnxRuntime.dll
+C:\Users\User\Downloads\SmartWasteManagement\SmartWasteManagement\SmartWasteManagement,Main\bin\Debug\net6.0-windows\Microsoft.Win32.SystemEvents.dll
+C:\Users\User\Downloads\SmartWasteManagement\SmartWasteManagement\SmartWasteManagement,Main\bin\Debug\net6.0-windows\MongoDB.Bson.dll
+C:\Users\User\Downloads\SmartWasteManagement\SmartWasteManagement\SmartWasteManagement,Main\bin\Debug\net6.0-windows\MongoDB.Driver.dll
+C:\Users\User\Downloads\SmartWasteManagement\SmartWasteManagement\SmartWasteManagement,Main\bin\Debug\net6.0-windows\MongoDB.Driver.Core.dll
+C:\Users\User\Downloads\SmartWasteManagement\SmartWasteManagement\SmartWasteManagement,Main\bin\Debug\net6.0-windows\MongoDB.Libmongocrypt.dll
+C:\Users\User\Downloads\SmartWasteManagement\SmartWasteManagement\SmartWasteManagement,Main\bin\Debug\net6.0-windows\OpenCvSharp.dll
+C:\Users\User\Downloads\SmartWasteManagement\SmartWasteManagement\SmartWasteManagement,Main\bin\Debug\net6.0-windows\OpenCvSharp.Extensions.dll
+C:\Users\User\Downloads\SmartWasteManagement\SmartWasteManagement\SmartWasteManagement,Main\bin\Debug\net6.0-windows\ScottPlot.dll
+C:\Users\User\Downloads\SmartWasteManagement\SmartWasteManagement\SmartWasteManagement,Main\bin\Debug\net6.0-windows\ScottPlot.WinForms.dll
+C:\Users\User\Downloads\SmartWasteManagement\SmartWasteManagement\SmartWasteManagement,Main\bin\Debug\net6.0-windows\SharpCompress.dll
+C:\Users\User\Downloads\SmartWasteManagement\SmartWasteManagement\SmartWasteManagement,Main\bin\Debug\net6.0-windows\SixLabors.Fonts.dll
+C:\Users\User\Downloads\SmartWasteManagement\SmartWasteManagement\SmartWasteManagement,Main\bin\Debug\net6.0-windows\Snappier.dll
+C:\Users\User\Downloads\SmartWasteManagement\SmartWasteManagement\SmartWasteManagement,Main\bin\Debug\net6.0-windows\System.Drawing.Common.dll
+C:\Users\User\Downloads\SmartWasteManagement\SmartWasteManagement\SmartWasteManagement,Main\bin\Debug\net6.0-windows\System.IO.Ports.dll
+C:\Users\User\Downloads\SmartWasteManagement\SmartWasteManagement\SmartWasteManagement,Main\bin\Debug\net6.0-windows\XLParser.dll
+C:\Users\User\Downloads\SmartWasteManagement\SmartWasteManagement\SmartWasteManagement,Main\bin\Debug\net6.0-windows\ZstdSharp.dll
+C:\Users\User\Downloads\SmartWasteManagement\SmartWasteManagement\SmartWasteManagement,Main\bin\Debug\net6.0-windows\runtimes\android\native\onnxruntime.aar
+C:\Users\User\Downloads\SmartWasteManagement\SmartWasteManagement\SmartWasteManagement,Main\bin\Debug\net6.0-windows\runtimes\ios\native\onnxruntime.xcframework\Info.plist
+C:\Users\User\Downloads\SmartWasteManagement\SmartWasteManagement\SmartWasteManagement,Main\bin\Debug\net6.0-windows\runtimes\ios\native\onnxruntime.xcframework\ios-arm64\onnxruntime.framework\Headers\coreml_provider_factory.h
+C:\Users\User\Downloads\SmartWasteManagement\SmartWasteManagement\SmartWasteManagement,Main\bin\Debug\net6.0-windows\runtimes\ios\native\onnxruntime.xcframework\ios-arm64\onnxruntime.framework\Headers\cpu_provider_factory.h
+C:\Users\User\Downloads\SmartWasteManagement\SmartWasteManagement\SmartWasteManagement,Main\bin\Debug\net6.0-windows\runtimes\ios\native\onnxruntime.xcframework\ios-arm64\onnxruntime.framework\Headers\onnxruntime_c_api.h
+C:\Users\User\Downloads\SmartWasteManagement\SmartWasteManagement\SmartWasteManagement,Main\bin\Debug\net6.0-windows\runtimes\ios\native\onnxruntime.xcframework\ios-arm64\onnxruntime.framework\Headers\onnxruntime_cxx_api.h
+C:\Users\User\Downloads\SmartWasteManagement\SmartWasteManagement\SmartWasteManagement,Main\bin\Debug\net6.0-windows\runtimes\ios\native\onnxruntime.xcframework\ios-arm64\onnxruntime.framework\Headers\onnxruntime_cxx_inline.h
+C:\Users\User\Downloads\SmartWasteManagement\SmartWasteManagement\SmartWasteManagement,Main\bin\Debug\net6.0-windows\runtimes\ios\native\onnxruntime.xcframework\ios-arm64\onnxruntime.framework\Info.plist
+C:\Users\User\Downloads\SmartWasteManagement\SmartWasteManagement\SmartWasteManagement,Main\bin\Debug\net6.0-windows\runtimes\ios\native\onnxruntime.xcframework\ios-arm64\onnxruntime.framework\onnxruntime
+C:\Users\User\Downloads\SmartWasteManagement\SmartWasteManagement\SmartWasteManagement,Main\bin\Debug\net6.0-windows\runtimes\ios\native\onnxruntime.xcframework\ios-arm64_x86_64-simulator\onnxruntime.framework\Headers\coreml_provider_factory.h
+C:\Users\User\Downloads\SmartWasteManagement\SmartWasteManagement\SmartWasteManagement,Main\bin\Debug\net6.0-windows\runtimes\ios\native\onnxruntime.xcframework\ios-arm64_x86_64-simulator\onnxruntime.framework\Headers\cpu_provider_factory.h
+C:\Users\User\Downloads\SmartWasteManagement\SmartWasteManagement\SmartWasteManagement,Main\bin\Debug\net6.0-windows\runtimes\ios\native\onnxruntime.xcframework\ios-arm64_x86_64-simulator\onnxruntime.framework\Headers\onnxruntime_c_api.h
+C:\Users\User\Downloads\SmartWasteManagement\SmartWasteManagement\SmartWasteManagement,Main\bin\Debug\net6.0-windows\runtimes\ios\native\onnxruntime.xcframework\ios-arm64_x86_64-simulator\onnxruntime.framework\Headers\onnxruntime_cxx_api.h
+C:\Users\User\Downloads\SmartWasteManagement\SmartWasteManagement\SmartWasteManagement,Main\bin\Debug\net6.0-windows\runtimes\ios\native\onnxruntime.xcframework\ios-arm64_x86_64-simulator\onnxruntime.framework\Headers\onnxruntime_cxx_inline.h
+C:\Users\User\Downloads\SmartWasteManagement\SmartWasteManagement\SmartWasteManagement,Main\bin\Debug\net6.0-windows\runtimes\ios\native\onnxruntime.xcframework\ios-arm64_x86_64-simulator\onnxruntime.framework\Info.plist
+C:\Users\User\Downloads\SmartWasteManagement\SmartWasteManagement\SmartWasteManagement,Main\bin\Debug\net6.0-windows\runtimes\ios\native\onnxruntime.xcframework\ios-arm64_x86_64-simulator\onnxruntime.framework\onnxruntime
+C:\Users\User\Downloads\SmartWasteManagement\SmartWasteManagement\SmartWasteManagement,Main\bin\Debug\net6.0-windows\runtimes\linux-arm64\native\libonnxruntime.so
+C:\Users\User\Downloads\SmartWasteManagement\SmartWasteManagement\SmartWasteManagement,Main\bin\Debug\net6.0-windows\runtimes\linux-x64\native\libonnxruntime.so
+C:\Users\User\Downloads\SmartWasteManagement\SmartWasteManagement\SmartWasteManagement,Main\bin\Debug\net6.0-windows\runtimes\win-arm\native\onnxruntime.dll
+C:\Users\User\Downloads\SmartWasteManagement\SmartWasteManagement\SmartWasteManagement,Main\bin\Debug\net6.0-windows\runtimes\win-arm\native\onnxruntime.lib
+C:\Users\User\Downloads\SmartWasteManagement\SmartWasteManagement\SmartWasteManagement,Main\bin\Debug\net6.0-windows\runtimes\win-arm\native\onnxruntime_providers_shared.dll
+C:\Users\User\Downloads\SmartWasteManagement\SmartWasteManagement\SmartWasteManagement,Main\bin\Debug\net6.0-windows\runtimes\win-arm\native\onnxruntime_providers_shared.lib
+C:\Users\User\Downloads\SmartWasteManagement\SmartWasteManagement\SmartWasteManagement,Main\bin\Debug\net6.0-windows\runtimes\win-arm64\native\onnxruntime.dll
+C:\Users\User\Downloads\SmartWasteManagement\SmartWasteManagement\SmartWasteManagement,Main\bin\Debug\net6.0-windows\runtimes\win-arm64\native\onnxruntime.lib
+C:\Users\User\Downloads\SmartWasteManagement\SmartWasteManagement\SmartWasteManagement,Main\bin\Debug\net6.0-windows\runtimes\win-arm64\native\onnxruntime_providers_shared.dll
+C:\Users\User\Downloads\SmartWasteManagement\SmartWasteManagement\SmartWasteManagement,Main\bin\Debug\net6.0-windows\runtimes\win-arm64\native\onnxruntime_providers_shared.lib
+C:\Users\User\Downloads\SmartWasteManagement\SmartWasteManagement\SmartWasteManagement,Main\bin\Debug\net6.0-windows\runtimes\win-x64\native\onnxruntime.dll
+C:\Users\User\Downloads\SmartWasteManagement\SmartWasteManagement\SmartWasteManagement,Main\bin\Debug\net6.0-windows\runtimes\win-x64\native\onnxruntime.lib
+C:\Users\User\Downloads\SmartWasteManagement\SmartWasteManagement\SmartWasteManagement,Main\bin\Debug\net6.0-windows\runtimes\win-x64\native\onnxruntime_providers_shared.dll
+C:\Users\User\Downloads\SmartWasteManagement\SmartWasteManagement\SmartWasteManagement,Main\bin\Debug\net6.0-windows\runtimes\win-x64\native\onnxruntime_providers_shared.lib
+C:\Users\User\Downloads\SmartWasteManagement\SmartWasteManagement\SmartWasteManagement,Main\bin\Debug\net6.0-windows\runtimes\win-x86\native\onnxruntime.dll
+C:\Users\User\Downloads\SmartWasteManagement\SmartWasteManagement\SmartWasteManagement,Main\bin\Debug\net6.0-windows\runtimes\win-x86\native\onnxruntime.lib
+C:\Users\User\Downloads\SmartWasteManagement\SmartWasteManagement\SmartWasteManagement,Main\bin\Debug\net6.0-windows\runtimes\win-x86\native\onnxruntime_providers_shared.dll
+C:\Users\User\Downloads\SmartWasteManagement\SmartWasteManagement\SmartWasteManagement,Main\bin\Debug\net6.0-windows\runtimes\win-x86\native\onnxruntime_providers_shared.lib
+C:\Users\User\Downloads\SmartWasteManagement\SmartWasteManagement\SmartWasteManagement,Main\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\User\Downloads\SmartWasteManagement\SmartWasteManagement\SmartWasteManagement,Main\bin\Debug\net6.0-windows\runtimes\linux\native\libmongocrypt.so
+C:\Users\User\Downloads\SmartWasteManagement\SmartWasteManagement\SmartWasteManagement,Main\bin\Debug\net6.0-windows\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\User\Downloads\SmartWasteManagement\SmartWasteManagement\SmartWasteManagement,Main\bin\Debug\net6.0-windows\runtimes\win\native\mongocrypt.dll
+C:\Users\User\Downloads\SmartWasteManagement\SmartWasteManagement\SmartWasteManagement,Main\bin\Debug\net6.0-windows\runtimes\win-x64\native\OpenCvSharpExtern.dll
+C:\Users\User\Downloads\SmartWasteManagement\SmartWasteManagement\SmartWasteManagement,Main\bin\Debug\net6.0-windows\runtimes\win-x86\native\OpenCvSharpExtern.dll
+C:\Users\User\Downloads\SmartWasteManagement\SmartWasteManagement\SmartWasteManagement,Main\bin\Debug\net6.0-windows\runtimes\linux-arm\native\libSystem.IO.Ports.Native.so
+C:\Users\User\Downloads\SmartWasteManagement\SmartWasteManagement\SmartWasteManagement,Main\bin\Debug\net6.0-windows\runtimes\linux-arm64\native\libSystem.IO.Ports.Native.so
+C:\Users\User\Downloads\SmartWasteManagement\SmartWasteManagement\SmartWasteManagement,Main\bin\Debug\net6.0-windows\runtimes\linux-x64\native\libSystem.IO.Ports.Native.so
+C:\Users\User\Downloads\SmartWasteManagement\SmartWasteManagement\SmartWasteManagement,Main\bin\Debug\net6.0-windows\runtimes\osx-arm64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\User\Downloads\SmartWasteManagement\SmartWasteManagement\SmartWasteManagement,Main\bin\Debug\net6.0-windows\runtimes\osx-x64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\User\Downloads\SmartWasteManagement\SmartWasteManagement\SmartWasteManagement,Main\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\System.IO.Ports.dll
+C:\Users\User\Downloads\SmartWasteManagement\SmartWasteManagement\SmartWasteManagement,Main\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.IO.Ports.dll
+C:\Users\User\Downloads\SmartWasteManagement\SmartWasteManagement\SmartWasteManagement,Main\bin\Debug\net6.0-windows\SmartWasteManagement.InferenceModel.dll
+C:\Users\User\Downloads\SmartWasteManagement\SmartWasteManagement\SmartWasteManagement,Main\bin\Debug\net6.0-windows\SmartWasteManagement.InferenceModel.pdb
+C:\Users\User\Downloads\SmartWasteManagement\SmartWasteManagement\SmartWasteManagement,Main\obj\Debug\net6.0-windows\SmartWasteManagement.Main.Properties.Resources.resources
+C:\Users\User\Downloads\SmartWasteManagement\SmartWasteManagement\SmartWasteManagement,Main\obj\Debug\net6.0-windows\SmartWasteManagement.Main.View.AboutPage.resources
+C:\Users\User\Downloads\SmartWasteManagement\SmartWasteManagement\SmartWasteManagement,Main\obj\Debug\net6.0-windows\SmartWasteManagement.Main.View.CalibrationPage.resources
+C:\Users\User\Downloads\SmartWasteManagement\SmartWasteManagement\SmartWasteManagement,Main\obj\Debug\net6.0-windows\SmartWasteManagement.Main.View.HomePage.resources
+C:\Users\User\Downloads\SmartWasteManagement\SmartWasteManagement\SmartWasteManagement,Main\obj\Debug\net6.0-windows\SmartWasteManagement.Main.View.LoginPage.resources
+C:\Users\User\Downloads\SmartWasteManagement\SmartWasteManagement\SmartWasteManagement,Main\obj\Debug\net6.0-windows\SmartWasteManagement.Main.View.RegisterUserPage.resources
+C:\Users\User\Downloads\SmartWasteManagement\SmartWasteManagement\SmartWasteManagement,Main\obj\Debug\net6.0-windows\SmartWasteManagement.Main.View.ReportingPage.resources
+C:\Users\User\Downloads\SmartWasteManagement\SmartWasteManagement\SmartWasteManagement,Main\obj\Debug\net6.0-windows\SmartWasteManagement.Main.View.SensorsLogPage.resources
+C:\Users\User\Downloads\SmartWasteManagement\SmartWasteManagement\SmartWasteManagement,Main\obj\Debug\net6.0-windows\SmartWasteManagement.Main.View.SensorsThresholdPage.resources
+C:\Users\User\Downloads\SmartWasteManagement\SmartWasteManagement\SmartWasteManagement,Main\obj\Debug\net6.0-windows\SmartWasteManagement.Main.csproj.GenerateResource.cache
+C:\Users\User\Downloads\SmartWasteManagement\SmartWasteManagement\SmartWasteManagement,Main\obj\Debug\net6.0-windows\SmartWasteManagement.Main.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Downloads\SmartWasteManagement\SmartWasteManagement\SmartWasteManagement,Main\obj\Debug\net6.0-windows\SmartWasteManagement.Main.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\SmartWasteManagement\SmartWasteManagement\SmartWasteManagement,Main\obj\Debug\net6.0-windows\SmartWasteManagement.Main.AssemblyInfo.cs
+C:\Users\User\Downloads\SmartWasteManagement\SmartWasteManagement\SmartWasteManagement,Main\obj\Debug\net6.0-windows\SmartWasteManagement.Main.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\SmartWasteManagement\SmartWasteManagement\SmartWasteManagement,Main\obj\Debug\net6.0-windows\SmartWasteManagement.Main.csproj.CopyComplete
+C:\Users\User\Downloads\SmartWasteManagement\SmartWasteManagement\SmartWasteManagement,Main\obj\Debug\net6.0-windows\SmartWasteManagement.Main.genruntimeconfig.cache
+C:\Users\User\Downloads\SmartWasteManagement\SmartWasteManagement\SmartWasteManagement,Main\obj\Debug\net6.0-windows\ref\SmartWasteManagement.Main.dll
+C:\Users\User\Downloads\SmartWasteManagement\SmartWasteManagement\SmartWasteManagement,Main\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\Users\User\Downloads\SmartWasteManagement\SmartWasteManagement\SmartWasteManagement,Main\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Users\User\Downloads\SmartWasteManagement\SmartWasteManagement\SmartWasteManagement,Main\bin\Debug\net6.0-windows\runtimes\ios\native\onnxruntime.xcframework\ios-arm64\onnxruntime.framework\Headers\onnxruntime_float16.h
+C:\Users\User\Downloads\SmartWasteManagement\SmartWasteManagement\SmartWasteManagement,Main\bin\Debug\net6.0-windows\runtimes\ios\native\onnxruntime.xcframework\ios-arm64_x86_64-simulator\onnxruntime.framework\Headers\onnxruntime_float16.h
+C:\Users\User\Downloads\SmartWasteManagement\SmartWasteManagement\SmartWasteManagement,Main\bin\Debug\net6.0-windows\runtimes\osx-arm64\native\libonnxruntime.dylib
+C:\Users\User\Downloads\SmartWasteManagement\SmartWasteManagement\SmartWasteManagement,Main\bin\Debug\net6.0-windows\runtimes\osx-x64\native\libonnxruntime.dylib
+C:\Users\User\Downloads\SmartWasteManagement\SmartWasteManagement\SmartWasteManagement,Main\bin\Debug\net6.0-windows\runtimes\win-x64\native\opencv_videoio_ffmpeg490_64.dll
+C:\Users\User\Downloads\SmartWasteManagement\SmartWasteManagement\SmartWasteManagement,Main\bin\Debug\net6.0-windows\runtimes\win-x86\native\opencv_videoio_ffmpeg490.dll
+C:\Users\User\Downloads\SmartWasteManagement\SmartWasteManagement\SmartWasteManagement,Main\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\Final Year Project\src\SmartWasteManagement\SmartWasteManagement,Main\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+D:\Final Year Project\src\SmartWasteManagement\SmartWasteManagement,Main\bin\Debug\net6.0-windows\System.Text.Json.dll
+D:\Final Year Project\src\SmartWasteManagement\SmartWasteManagement,Main\bin\Debug\net6.0-windows\runtimes\ios\native\onnxruntime.xcframework\ios-arm64\onnxruntime.framework\Headers\onnxruntime_float16.h
+D:\Final Year Project\src\SmartWasteManagement\SmartWasteManagement,Main\bin\Debug\net6.0-windows\runtimes\ios\native\onnxruntime.xcframework\ios-arm64_x86_64-simulator\onnxruntime.framework\Headers\onnxruntime_float16.h
+D:\Final Year Project\src\SmartWasteManagement\SmartWasteManagement,Main\bin\Debug\net6.0-windows\runtimes\osx-arm64\native\libonnxruntime.dylib
+D:\Final Year Project\src\SmartWasteManagement\SmartWasteManagement,Main\bin\Debug\net6.0-windows\runtimes\osx-x64\native\libonnxruntime.dylib
+D:\Final Year Project\src\SmartWasteManagement\SmartWasteManagement,Main\bin\Debug\net6.0-windows\runtimes\win-x64\native\opencv_videoio_ffmpeg490_64.dll
+D:\Final Year Project\src\SmartWasteManagement\SmartWasteManagement,Main\bin\Debug\net6.0-windows\runtimes\win-x86\native\opencv_videoio_ffmpeg490.dll
+D:\Final Year Project\src\SmartWasteManagement\SmartWasteManagement,Main\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\Final Year Project\src\SmartWasteManagement\SmartWasteManagement,Main\obj\Debug\net6.0-windows\SmartWasteManagement.Main.View.SensorsLogPage.resources
