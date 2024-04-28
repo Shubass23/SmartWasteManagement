@@ -1,14 +1,27 @@
 # Smart Waste Management System: An IoT-Based Approach for Automated Waste Classification and Bin Monitoring
 
-The scope of this project focused on the development and implementation of an AI-based waste classification system using the YOLOv5 model, as well as the integration of IoT sensors for bin monitoring. The AI system involved training the YOLOv5 model to 
-accurately identify and categorize various types of waste, such as paper, cardboard, glass, 
+The scope of this project focused on the development and implementation of an AI-based 
+waste classification system using the YOLOv5 model, as well as the integration of IoT 
+sensors for bin monitoring. 
+
+## Waste Classification using YoloV5
+The AI system involved training the YOLOv5 model to 
+accurately identify and categorize six types of waste, such as paper, cardboard, glass, 
 metal, plastic, and trash. This system aimed to facilitate accurate and automated waste 
 sorting, thereby enhancing recycling rates and reducing the incidence of improper waste 
-disposal. In addition to the AI-based classification, IoT sensors were integrated into waste 
+disposal.
+
+## Bin Monitoring using IoT Sensors (MQ-4, MQ-135, Ultrasonic)
+In addition to the AI-based classification, IoT sensors were integrated into waste 
 bins. These sensors collected real-time data on several parameters, including the level of 
 fullness of the bins and the presence of methane and ammonia gases. This data was then 
-transmitted through serial communication via USB to a desktop application. This desktop 
-application, built on C# Windows Forms using the .NET framework, displayed the 
+transmitted through serial communication via USB to a desktop application.
+* MQ-4 - Methane Gas
+* MQ-135 - Ammonia Gas
+* Ultrasonic Sensor - Bin Fullness Level
+
+## Desktop Application
+This desktop application, built on C# Windows Forms using the .NET framework, displayed the 
 collected data. Furthermore, a mobile application was developed specifically for waste 
 management personnel. This application enabled them to monitor bin readings from 
 remote locations in real time and receive notifications when the bins reached 
@@ -17,3 +30,41 @@ project was aimed at a wide range of stakeholders, including the general public,
 management authorities, municipalities, policymakers, and organizations involved in 
 waste collection and recycling. The ultimate goal was to improve waste management 
 practices and promote environmental sustainability.
+
+## Mobile Application
+
+# References
+Cheema, S. M., Hannan, A., & Pires, I. M. (2022). Smart Waste Management and 
+Classification Systems Using Cutting Edge Approach. Sustainability, 14(16), 
+10226. https://doi.org/10.3390/su141610226
+F. O. Ogunwolu, H. I. Mbom, A. Raji and A. Omiyale. (2020). Design and implementation 
+of an IoT based smart waste bin for fill level and biodegradability 
+monitoring. Journal of Engineering Research, 25(3). 
+White, G., Cabrera, C., Palade, A., Li, F., & Clarke, S. (2020). WasteNet: Waste 
+classification at the edge for smart bins. In arXiv [cs.CV]. 
+http://arxiv.org/abs/2006.05873
+Abdu, H., & Noor, M. H. M. (2022). A Survey on Waste Detection and Classification 
+Using Deep Learning. IEEE Access, 10, 128151-128165.
+Patro, N., Bramhankar, D., Sarode, S., & P , S. (2021). 19th National Conference on 
+Science, Engineering and Technology. In Implementation of IoT based Smart 
+Waste Management system in Node Red. Chennai, India; Vellore Institute 
+of Technology. 
+Orimogunje, A. M., Fred-Ahmadu, O. V., Adewale, A. A., Olaitan, A., Misra, S., Agrawal, 
+A., & Ahuja, R. (2022). Design and development of smart waste bin for effective 
+waste collection and management. In Futuristic Trends in Networks and 
+Computing Technologies (pp. 363–372). Springer Nature Singapore.
+Adedeji, O., & Wang, Z. (2019). Intelligent waste classification system using deep 
+learning convolutional neural network. Procedia Manufacturing, 35, 607–612. 
+https://doi.org/10.1016/j.promfg.2019.05.086
+Yuan, Z., & Liu, J. (2022). A hybrid deep learning model for trash classification based on 
+deep trasnsfer learning. Journal of Electrical and Computer Engineering, 2022, 
+1–9. https://doi.org/10.1155/2022/7608794
+Wu, Z., Zhang, D., Shao, Y., Zhang, X., Zhang, X., Feng, Y., & Cui, P. (2021). Using 
+YOLOv5 for Garbage Classification. 2021 4th International Conference on 
+Pattern Recognition and Artificial Intelligence (PRAI), 35–38.
+61
+Afolalu, S. A., Noiki, A. A., Ikumapayi, O. M., Ogundipe, A. T., & Oloyede, O. R. (2021). 
+Development of smart waste bin for solid waste management. International 
+Journal of Sustainable Development and Planning, 16(8), 1449–1454. 
+https://doi.org/10.18280/ijsdp.160805
+
