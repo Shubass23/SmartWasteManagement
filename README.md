@@ -13,6 +13,11 @@ metal, plastic, and trash. This system aimed to facilitate accurate and automate
 sorting, thereby enhancing recycling rates and reducing the incidence of improper waste 
 disposal.
 
+### Datasets
+Six types of dataset which are paper, cardboard, glass, metal, plastic, and trash.
+![dataset_1](images/dataset_1.png)
+![dataset_2](images/dataset_2.png)
+
 ## Bin Monitoring using IoT Sensors (MQ-4, MQ-135, Ultrasonic)
 In addition to the AI-based classification, IoT sensors were integrated into waste 
 bins. These sensors collected real-time data on several parameters, including the level of 
@@ -42,12 +47,10 @@ and utilize the waste classification system.
 ![sensors_reading_image_ui](images/sensors_reading_ui.png)
 
 ### User Management UI
+![user_management_image_ui](images/user_management_ui.png)
 
 ### Reporting UI
-
-### 
-
-
+![waste_reporting_image_ui](images/waste_reporting_ui.png)
 
 ## Mobile Application (Flutter)
 A mobile application was developed specifically for waste 
@@ -56,8 +59,10 @@ remote locations in real time and receive notifications when the bins reached
 predetermined thresholds for fullness, methane, and ammonia gas levels.
 
 ### Sensors Live Readings UI
+![mobile_sensors_readings_image_ui](images/mobile_sensors_reading_ui.png)
 
 ### Waste Report UI
+![mobile_reportings_image_ui](images/waste_reporting_ui.png)
 
 ## Database (MongoDB)
 This integration involved the creation of three distinct collections within the 
