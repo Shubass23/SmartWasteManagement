@@ -36,6 +36,14 @@ and utilize the waste classification system.
 ### Sensor Reading UI
 
 ## Mobile Application (Flutter)
+A mobile application was developed specifically for waste 
+management personnel. This application enabled them to monitor bin readings from 
+remote locations in real time and receive notifications when the bins reached 
+predetermined thresholds for fullness, methane, and ammonia gas levels.
+
+### Sensors Live Readings UI
+
+### Waste Report UI
 
 ## Database (MongoDB)
 This integration involved the creation of three distinct collections within the 
