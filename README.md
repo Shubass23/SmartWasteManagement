@@ -15,6 +15,7 @@ disposal.
 
 ### Datasets
 Six types of dataset which are paper, cardboard, glass, metal, plastic, and trash.
+
 ![dataset_1](images/dataset_1.png)
 ![dataset_2](images/dataset_2.png)
 
@@ -71,6 +72,12 @@ outcomes of the waste classification model's predictions. The second collection 
 sensors used in the system are stored. The third collection, "user_credential," is responsible for storing the login details and 
 credentials of the waste management personnel. The fourth collection, "sensors_reading," is responsible for storing the sensors readings 
 every five seconds such as ultrasonic sensor, MQ4 sensor and MQ135 sensor.
+
+## Arduino
+
+Connection of MQ-4, MQ-135, Ultrasonic sensor
+
+![arduino_image](images/arduino.png)
 
 # References
 Cheema, S. M., Hannan, A., & Pires, I. M. (2022). Smart Waste Management and 
