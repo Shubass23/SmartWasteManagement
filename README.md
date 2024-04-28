@@ -28,7 +28,7 @@ interface that enables users, such as waste management personnel, to easily acce
 and utilize the waste classification system.
 
 ### Classification UI
-![classification_image_ui_1](images\calibration_ui.png)
+![classification_image_ui_1](images/calibration_ui.png)
 
 ### Authenthication UI
 
