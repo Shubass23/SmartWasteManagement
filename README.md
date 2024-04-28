@@ -23,9 +23,17 @@ transmitted through serial communication via USB to a desktop application.
 ## Desktop Application (C#)
 The deployment involves integrating the trained model into the Windows Forms 
 application, allowing users to interact with the application's graphical user interface (GUI) 
-to perform waste classification tasks. The Windows Forms application provides a userfriendly 
+to perform waste classification tasks. The Windows Forms application provides a user-friendly 
 interface that enables users, such as waste management personnel, to easily access 
-and utilize the waste classification system
+and utilize the waste classification system.
+
+### Classification UI
+
+### Authenthication UI
+
+### Sensor Calibration UI
+
+### Sensor Reading UI
 
 ## Mobile Application (Flutter)
 
