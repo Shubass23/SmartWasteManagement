@@ -28,12 +28,21 @@ interface that enables users, such as waste management personnel, to easily acce
 and utilize the waste classification system.
 
 ### Classification UI
+!(classification_image_ui_1)[images\calibration_ui.png]
 
 ### Authenthication UI
 
 ### Sensor Calibration UI
 
 ### Sensor Reading UI
+
+### User Management UI
+
+### Reporting UI
+
+### 
+
+
 
 ## Mobile Application (Flutter)
 A mobile application was developed specifically for waste 
