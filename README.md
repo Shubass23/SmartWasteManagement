@@ -20,18 +20,22 @@ transmitted through serial communication via USB to a desktop application.
 * MQ-135 - Ammonia Gas
 * Ultrasonic Sensor - Bin Fullness Level
 
-## Desktop Application
-This desktop application, built on C# Windows Forms using the .NET framework, displayed the 
-collected data. Furthermore, a mobile application was developed specifically for waste 
-management personnel. This application enabled them to monitor bin readings from 
-remote locations in real time and receive notifications when the bins reached 
-predetermined thresholds for fullness, methane, and ammonia gas levels. Overall, the 
-project was aimed at a wide range of stakeholders, including the general public, waste 
-management authorities, municipalities, policymakers, and organizations involved in 
-waste collection and recycling. The ultimate goal was to improve waste management 
-practices and promote environmental sustainability.
+## Desktop Application (C#)
+The deployment involves integrating the trained model into the Windows Forms 
+application, allowing users to interact with the application's graphical user interface (GUI) 
+to perform waste classification tasks. The Windows Forms application provides a userfriendly 
+interface that enables users, such as waste management personnel, to easily access 
+and utilize the waste classification system
 
-## Mobile Application
+## Mobile Application (Flutter)
+
+## Database (MongoDB)
+This integration involved the creation of three distinct collections within the 
+database. The first collection is "inspection_result," which serves as a repository for storing the 
+outcomes of the waste classification model's predictions. The second collection is "sensors_calibration," where the threshold values for the various 
+sensors used in the system are stored. The third collection, "user_credential," is responsible for storing the login details and 
+credentials of the waste management personnel. The fourth collection, "sensors_reading," is responsible for storing the sensors readings 
+every five seconds such as ultrasonic sensor, MQ4 sensor and MQ135 sensor.
 
 # References
 Cheema, S. M., Hannan, A., & Pires, I. M. (2022). Smart Waste Management and 
