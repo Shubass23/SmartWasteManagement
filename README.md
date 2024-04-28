@@ -2,7 +2,9 @@
 
 The scope of this project focused on the development and implementation of an AI-based 
 waste classification system using the YOLOv5 model, as well as the integration of IoT 
-sensors for bin monitoring. 
+sensors for bin monitoring.
+
+![system_architecture](images/system_architecture.png)
 
 ## Waste Classification using YoloV5
 The AI system involved training the YOLOv5 model to 
@@ -28,13 +30,16 @@ interface that enables users, such as waste management personnel, to easily acce
 and utilize the waste classification system.
 
 ### Classification UI
-![classification_image_ui_1](images/calibration_ui.png)
+![classification_image_ui_1](images/waste_classification_ui.png)
 
 ### Authenthication UI
+![authentication_image_ui_1](images/authentication_ui.png)
 
 ### Sensor Calibration UI
+![calibration_image_ui_1](images/calibration_ui.png)
 
 ### Sensor Reading UI
+![sensors_reading_image_ui](images/sensors_reading_ui.png)
 
 ### User Management UI
 
