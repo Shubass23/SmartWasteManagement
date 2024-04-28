@@ -63,7 +63,7 @@ predetermined thresholds for fullness, methane, and ammonia gas levels.
 ![mobile_sensors_readings_image_ui](images/mobile_sensors_reading_ui.png)
 
 ### Waste Report UI
-![mobile_reportings_image_ui](images/waste_reporting_ui.png)
+![mobile_reportings_image_ui](images/mobile_reporting_ui.png)
 
 ## Database (MongoDB)
 This integration involved the creation of three distinct collections within the 
